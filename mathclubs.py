@@ -1,5 +1,5 @@
 def fact(n):
-    """ 
+    """
 	Compute the factorial of n
     >>> fact(1)
     1
@@ -13,4 +13,7 @@ def fact(n):
         x = n * x
         n -= 1
     return x
-   
+
+
+def choose(n, k):
+    return 0
