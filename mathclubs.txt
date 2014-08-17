@@ -1,3 +1,4 @@
 Three math clubs with 5, 7, 8 members
 Each club has two presidents
 We're selecting three members from ...
+What is the probability that two of the members selected are co-presidents?
